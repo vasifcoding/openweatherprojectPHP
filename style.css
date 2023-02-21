@@ -1,0 +1,92 @@
+html{
+    font-size : 12px;
+  }
+  body{
+    font-size:1.2rem ;
+    font-family: 'Josefin Sans', sans-serif;
+    
+  }
+  a{
+    text-decoration:none;
+    color:white;
+  }
+  .navbar {
+   background-color:green;
+   
+    justify-content:center;
+    
+  }
+   ul{
+    list-style:none;
+    display:flex;
+    align-items:center;
+  }
+  .navbar ul li{
+    padding:1.5rem 1rem 1rem 5rem;
+    
+    list-style:none;
+  
+  }
+  .main h1{
+    font-size:2.5rem;
+    font-weight:500;
+   
+    letter-spacing:0.1rem;
+    padding:1.5rem 6rem 1.5rem 6rem; 
+   
+  }
+  
+  .main input{
+    margin-top:2rem;
+    width:100%;
+    padding:1rem;
+    border:2px solid blue;
+    outline:0;
+    border:0;
+    border-bottom:2px solid blue;
+    
+   
+    color:blue;
+  }
+  .sehir{
+    padding:1rem;
+    font-size:3rem;
+    color:blue;
+    margin:0.5rem;
+    margin-top:2rem;
+    box-shadow:1px 2px 2px 1px  rgba(0 ,0 ,256 ,0.2)
+  }
+  .sicaklik{
+  
+    font-size:2.5rem;
+    color:green;
+    margin-top:0.6rem;
+  }
+  .aciklama{
+     padding:1rem;
+    font-size:2.5rem;
+    color:green;
+    
+  }
+  .minmax{
+       
+    font-size:2.5rem;
+    color:green;
+    
+  }
+  .btn{
+    font-size:1.4rem;
+   margin-top:2.4rem; 
+    padding-left:3rem;
+    padding-right:3rem;
+  }
+  .form{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+  }
+  .konum{
+     display:flex;
+    align-items:center;
+    justify-content:center;
+  }
